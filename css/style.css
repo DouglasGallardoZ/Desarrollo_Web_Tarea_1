@@ -1,0 +1,41 @@
+body{
+    margin:auto;
+    padding:0;
+    background:url(12.jpeg);
+    background-size:cover;
+    background-position:center;
+    font-family: sans-serif;
+}
+
+h2{
+    font-size: x-large;
+    background-color: white;
+    color:black;
+
+
+}
+nav, li{
+ 
+    display :inline-block;
+    padding:5px;
+
+ 
+}
+
+.menuSuperior{
+    background-color:white;
+    font-size: large;
+    text-align: left;
+    color:black;
+ 
+}
+
+.Imagen, img{
+    margin: auto;
+    display: block;
+    margin:auto;
+
+}
+.Footer{
+    background-color:white;
+}
