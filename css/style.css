@@ -1,41 +1,26 @@
-body{
-    margin:auto;
-    padding:0;
-    background:url(12.jpeg);
-    background-size:cover;
-    background-position:center;
-    font-family: sans-serif;
+.img-servicios{
+    width: 300px;
+    height: 200px;
 }
 
-h2{
-    font-size: x-large;
-    background-color: white;
-    color:black;
-
-
-}
-nav, li{
- 
-    display :inline-block;
-    padding:5px;
-
- 
+.columna{
+    float: left;
+    padding: 50px;
 }
 
-.menuSuperior{
-    background-color:white;
-    font-size: large;
-    text-align: left;
-    color:black;
- 
+.section-servicios, p{
+    clear: left;
 }
 
-.Imagen, img{
-    margin: auto;
-    display: block;
-    margin:auto;
-
+.service-container{
+    text-align: center;
 }
-.Footer{
-    background-color:white;
+
+#container-main{
+    padding: 200px;
+}
+
+.font-body{
+    font-family: "Fira Sans",sans-serif;
+    color: #666362;
 }
