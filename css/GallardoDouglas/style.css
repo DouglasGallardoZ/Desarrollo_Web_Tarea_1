@@ -1,0 +1,29 @@
+.img-servicios{
+    width: 300px;
+    height: 200px;
+}
+
+.columna{
+    float: left;
+    padding: 50px;
+}
+
+.section-servicios, p{
+    clear: left;
+}
+
+.service-container{
+    text-align: center;
+}
+
+#container-main{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.font-body{
+    font-family: "Fira Sans",sans-serif;
+    
+}

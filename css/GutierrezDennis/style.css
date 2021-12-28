@@ -1,0 +1,50 @@
+#Encabezado {
+    font-family: "Fira Sans",sans-serif;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    text-align: center;
+    /*background-color: #e2e2e2;*/
+    /*border: 5px solid rgb(202, 202, 202);*/
+}
+
+img{
+    display:block;
+    margin:auto;
+    }
+
+#Bloque1 {
+    font-family: "Fira Sans",sans-serif;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    /*background-color: #e2e2e2;*/
+    border: 5px solid rgb(149, 191, 255);
+}
+
+#Bloque2 {
+    font-family: "Fira Sans",sans-serif;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    /*background-color: #e2e2e2;*/
+    border: 5px solid rgb(149, 191, 255);
+}
+
+#Bloque3 {
+    font-family: "Fira Sans",sans-serif;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    /*background-color: #e2e2e2;*/
+    border: 5px solid rgb(149, 191, 255);
+}
+
+#Bloque4{
+    font-family: "Fira Sans",sans-serif;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    /*background-color: #e2e2e2;*/
+    border: 5px solid rgb(149, 191, 255);
+}
