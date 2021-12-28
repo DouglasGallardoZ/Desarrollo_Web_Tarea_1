@@ -12,13 +12,17 @@
     clear: left;
 }
 
+.section-servicios{
+    margin-top: 50px;
+}
+
 .service-container{
     text-align: center;
 }
 
 #container-main{
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 250px;
+    padding-right: 250px;
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -26,4 +30,8 @@
 .font-body{
     font-family: "Fira Sans",sans-serif;
     
+}
+
+.footer{
+    clear: right;
 }
