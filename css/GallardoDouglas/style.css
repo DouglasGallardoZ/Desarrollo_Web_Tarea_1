@@ -90,3 +90,33 @@ select, input, textarea{
 #info-servicio img{
     margin-top: 20px;
 }
+
+#contenedor{
+    width: 80%;
+    margin:auto;
+}
+
+#galeria{
+    display:grid;
+    grid-template-rows: 240px 240px 260px;/*altura de las filas*/
+    grid-template-columns: 30% 30% 30%;/* ancho de las columnas*/
+    grid-gap: 15px 5px;/*row gap column gap*/
+}
+
+.elemento{
+    text-align: center;
+    
+}
+
+.elemento img{
+    width: 160px;
+    height: 160px;
+}
+
+.esp-container{
+    width: 80%;
+    margin:auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
